@@ -1,4 +1,15 @@
-wm-bootstrap
+webmatrix+bootstrap - start
 ============
 
-quick setup of a wm project with bootstrap included
+<p> A quick setup of a webmatrix(wm) template project which includes the bootstrap .css framework, </p>
+
+Goals
+===========
+
+<ol>
+  <li>] learn git</li>
+  <li>] built a template file for webmatrix IDE that includes the </li> 
+  <li>] learn git</li>
+</ol>
+
+
